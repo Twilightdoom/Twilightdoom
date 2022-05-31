@@ -2,7 +2,7 @@
 My name is Adriel Jonathan Santoso, I'm currently a student in Binus University major in Computer Science. 
 I was fueled by passion about database and learning something new. I'm openly seeking and ready for many new opportunities and experiences. 
 
-
+📫 How to reach me adriel.jonathan1@gmail.com
 
 <!-- - 👋 Hi, I’m @Twilightdoom 
 - 👀 I’m interested in ...
